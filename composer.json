@@ -1,6 +1,5 @@
 {
   "name": "adisto/hello-world",
-  "version": "1.0.0",
   "description": "A simple Hello World package",
   "type": "library",
   "require": {}
