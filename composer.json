@@ -1,0 +1,6 @@
+{
+  "name": "adisto/hello-world",
+  "description": "A simple Hello World package",
+  "type": "library",
+  "require": {}
+}
