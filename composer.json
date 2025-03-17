@@ -3,5 +3,6 @@
   "description": "A simple Hello World package",
   "version": "1.0.0-alpha",
   "type": "library",
+  "minimum-stability": "dev",
   "require": {}
 }
